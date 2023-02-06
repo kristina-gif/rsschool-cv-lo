@@ -5,3 +5,11 @@
 ---
 * +375(25)7166769
 ***
+#__Education__:
+###Secondary special education
+
+---
+English level (A1)
+***
+# Skills
+- cv 
