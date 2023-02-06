@@ -1,9 +1,11 @@
-#___Krystsina Rozhka___
-##* _Minsk,Belarus_
+#Krystsina Rozhka
+
 ***
-- [kovalevskaya.kristina.kot@gmail.com](kovalevskaya.kristina.kot@gmail.com)
----
-* +375(25)7166769
+##My contacts:
+* [Email](kovalevskaya.kristina.kot@gmail.com)
+* [Phone number](+375(25)7166769)
+* [Telegram](https://t.me/rosemarycat)
+
 ***
 #__Education__:
 ###Secondary special education
