@@ -12,9 +12,12 @@
 
 ## Languages:
 
-- English (A1)
+- English (A2)
 - Russian (native)
 
 ## Skills
 
+- css
+- html
 - cv
+- js
