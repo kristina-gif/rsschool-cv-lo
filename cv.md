@@ -15,9 +15,17 @@
 - English (A2)
 - Russian (native)
 
-## Skills
+## Skills:
 
 - css
 - html
 - cv
 - js
+
+## Сode example:
+
+```
+function even_or_odd(number) {
+  return number % 2 ? "Odd" : "Even"
+}
+```
