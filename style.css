@@ -82,3 +82,8 @@
 .img:hover {
   transform: scale(1.2);
 }
+.column {
+  display: flexbox;
+  font-size: 10px;
+  font-weight: 700;
+}
