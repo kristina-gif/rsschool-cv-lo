@@ -22,6 +22,8 @@
 - html
 - cv
 - js
+- Git, GitHub
+- VS Code
 
 ## ABOUT ME:
 
